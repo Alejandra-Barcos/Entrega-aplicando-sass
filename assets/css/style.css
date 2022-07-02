@@ -1,0 +1,22 @@
+.tituloIndexFondo {
+  background-color: #1e4177;
+  height: 150px;
+}
+.tituloIndexFondo .tituloIndex {
+  color: #fff;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.cards .btn {
+  background-color: #1e4177;
+  color: #fff;
+}
+
+.btnForm {
+  width: 80px;
+  height: 40px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,21 @@
+.tituloIndexFondo{
+    background-color: $colorPrimario;
+    height: 150px;
+    .tituloIndex{
+        color: $colorBlanco;
+    }
+}
+
+
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    .btn{
+        background-color: $colorPrimario;
+        color: $colorBlanco;
+    
+    }
+}
